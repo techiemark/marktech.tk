@@ -1,0 +1,79 @@
+/*Selector{
+	Property:value;
+}*/
+
+h3 {
+	color: white;
+	text-align: center;
+}
+
+li {
+	color: #175C96 ;
+    text-align: center;
+    list-style-type: none;
+	display: block;
+	background-color: 10px white ;
+}
+
+
+h1 {
+	color: white;
+	border: 5px solid rgb(23, 92, 150,0.5);
+	text-align: center;
+	margin: 0px;
+}
+
+body {
+	background: url("background 3.jpg");
+	background-size: cover;
+}
+
+a{
+	color: #175C96;
+}
+
+h2{
+	color:white;
+	text-align: center;
+}
+
+#div1 {
+	background-color: rgba(31,37,43,0.5);
+}
+
+#div2{
+	background-color: rgba(31,37,43,0.5)
+}
+
+h4{
+	color: white;
+	border: 5px solid rgba(23,92,150,0.5);
+	background-color:rgba(31, 37, 43,0.8);
+	text-decoration: underline;
+	line-height: 50px;
+	font-style:italic;
+	font-weight: bolder;
+	font-size: 120%;
+	flood-color: rgba(255,255,150,0.5);
+	font-family: 'Marck Script', cursive;
+}
+
+img {
+	float: right;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	font-size: 130%;
+	background-color:rgba(148, 151, 151,0.5);
+}
+
+span {
+	font-size: 2em;
+}
+
+p {
+	font-size: 20px
+}
+
