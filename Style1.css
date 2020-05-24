@@ -92,3 +92,7 @@ li {
     margin: 0;
     font-size: 0.7em;
 }
+
+.push {
+    margin-left: auto;
+}
